@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Desktop\\VScode programes"
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\C"
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\mavendemo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VScode programes",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\admin\\Desktop\\mongodb-driver-3.4.2.jar",
+			"c:\\Users\\admin\\Desktop\\jars\\bson-3.0.1.jar",
+			"c:\\Users\\admin\\Desktop\\jars\\mongodb-driver-3.0.1.jar",
+			"c:\\Users\\admin\\Desktop\\jars\\mongodb-driver-core-3.0.1.jar",
+			"c:\\Users\\admin\\Desktop\\jars\\mongo-java-driver-3.0.1.jar"
+		],
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

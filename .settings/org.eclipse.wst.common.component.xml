@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Library">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="bson-3.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/admin/Desktop/jars/bson-3.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mongo-java-driver-3.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/admin/Desktop/jars/mongo-java-driver-3.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mongodb-driver-3.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/admin/Desktop/jars/mongodb-driver-3.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mongodb-driver-core-3.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/admin/Desktop/jars/mongodb-driver-core-3.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="Library"/>
+        <property name="java-output-path" value="/Library/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,500 @@
+bookId,title,genres
+1,"Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics",Adventure|Animation|Children|Comedy|Fantasy
+2,Concrete Abstractions: An Introduction to Computer Science Using Scheme,Adventure|Children|Fantasy
+3,Product Manufacturing and Cost Estimating Using Cad/Cae. The Computer Aided Engineering Design Series,Comedy|Romance
+4,Essential Discrete Mathematics for Computer Science,Comedy|Drama|Romance
+5,Mathematics for Computer Science,Comedy
+6,Discrete Mathematics for Computer Science,Action|Crime|Thriller
+7,Essential discrete mathematics for computer science,Comedy|Romance
+8,Digital Principles and Logic Design (Engineering) (Computer Science) (Engineering Series),Adventure|Children
+9,Classic Computer Science Problems in Python,Action
+10,Deep Learning for Computer Vision with Python,Action|Adventure|Thriller
+11,"Computer Architecture, Sixth Edition: A Quantitative Approach",Comedy|Drama|Romance
+12,Computer Systems: A Programmer's Perspective,Comedy|Horror
+13,Computer Organization and Architecture Designing for Performance 10th Edition,Adventure|Animation|Children
+14,The Elements of Computing Systems: Building a Modern Computer from First Principles,Drama
+15,"Digital Design and Computer Architecture, Second Edition",Action|Adventure|Romance
+16,The Design and Analysis of Computer Algorithms,Crime|Drama
+17,The Design and Analysis of Computer Algorithms,Drama|Romance
+18,"Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms",Comedy
+19,"Linux: This Book Includes 4 Manuscripts. The Underground Bible to the UNIX Operating System with Tools On Security and Kali Hacking to Understand Computer Programming, Data Science and Command Line",Comedy
+20,"Computer Networking: A Top-Down Approach, 7th Edition",Action|Comedy|Crime|Drama|Thriller
+21,Computers and Intractability: A Guide to the Theory of NP-Completeness,Comedy|Crime|Thriller
+22,"Theory of Computer Science: Automata, Languages and Computation",Crime|Drama|Horror|Mystery|Thriller
+23,"Intro to Python forComputer Science and Data Science : Learning to Program with AI, Big Data and the Cloud",Action|Crime|Thriller
+24,"Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow",Drama|Sci-Fi
+25,"Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow",Drama|Romance
+26,Digital Computer Electronics,Drama
+27,Data and Computer Communications,Children|Drama
+28,"NETWORKING HACKING: Complete guide tools for computer wireless network technology, connections and communications system. Practical penetration of a network via services and hardware.",Drama|Romance
+29,Machine Learning in VLSI Computer-Aided Design,Adventure|Drama|Fantasy|Mystery|Sci-Fi
+30,"NETWORKING HACKING: Complete guide tools for computer wireless network technology, connections and communications system. Practical penetration of a network via services and hardware.",Crime|Drama
+31,Antennas and Radiowave Propagation (Mcgraw Hill Series in Electrical and Computer Engineering),Drama
+32,Computer-aided Design of Electrical Machines,Mystery|Sci-Fi|Thriller
+34,Power System Dynamics with Computer-Based Modeling and Analysis,Children|Drama
+36,"Computer Graphics and Multimedia. Applications, Problems and Solutions",Crime|Drama
+38,"Color theory and modeling for computer graphics, visualization, and multimedia applications  ",Children|Comedy
+39,"Color theory and modeling for computer graphics,visualization,and multimedia applications",Comedy|Romance
+40,"Computer Graphics and Multimedia: Applications, Problems and Solutions",Drama
+41,"Computer Graphics and Multimedia: Applications, Problems and Solutions",Drama|War
+42,"Multimedia, Computer Graphics and Broadcasting: International Conference, MulGraB 2011, Held as Part of the Future Generation Information Technology Conference, FGIT 2011, in Conjunction with GDC 2011, Jeju Island, Korea, December 8-10, 2011. Proceedings,",Action|Crime|Drama
+43,"Multimedia, Computer Graphics and Broadcasting: International Conference, MulGraB 2011, Held as Part of the Future Generation Information Technology Conference, FGIT 2011, in Conjunction with GDC 2011, Jeju Island, Korea, December 8-10, 2011. Proceedings,",Drama
+44,"Multimedia, Computer Graphics and Broadcasting: First International Conference, MulGraB 2009, Held as Part of the Future Generation Information Technology Conference, FGIT 2009, Jeju Island, Korea, December 10,12, 2009. Proceedings",Action|Adventure|Fantasy
+45,Chemical Engineering Dynamics: An Introduction to Modelling and Computer Simulation,Comedy|Drama|Thriller
+46,3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics,Drama|Romance
+47,3D game engine design: a practical approach to real-time computer graphics,Mystery|Thriller
+48,Numerical and Statistical Methods for Computer Engineering Gujarat Technological University 2017,Animation|Children|Drama|Musical|Romance
+49,Getting Started with CNC: Personal Digital Fabrication with Shapeoko and Other Computer-Controlled Routers,Drama|Romance
+50,Chemical Engineering Dynamics: An Introduction to Modelling and Computer Simulation,Crime|Mystery|Thriller
+52,Computer and Information Security Handbook,Comedy|Drama|Romance
+53,Tensors: The Mathematics of Relativity Theory and Continuum Mechanics,Adventure|Drama
+54,Applied mathematics in hydraulic engineering : an introduction to nonlinear differential equations,Children|Comedy
+55,Applied mathematics in hydraulic engineering: an introduction to nonlinear differential equations,Drama
+57,Applied mathematics in hydraulic engineering : an introduction to nonlinear differential equations,Drama
+58,"Foundations of Game Engine Development, Volume 1: Mathematics",Comedy|Drama|Romance
+60,"Engineering Mathematics. A Foundation for Electronic, Electrical, Communications and Systems Engineers",Adventure|Children|Fantasy
+61,Discrete Mathematics and Its Applications,Drama|Thriller
+62,"Schaums Outline of Discrete Mathematics, Revised Third Edition",Drama
+63,Discrete Mathematics with Applications,Comedy|Crime
+64,A Beginner's Guide to Discrete Mathematics,Comedy|Romance
+65,"Discrete Mathematics and Its Applications, seventh edition",Comedy
+66,Discrete mathematics and its applications,Action|Sci-Fi|Thriller
+68,Essential Discrete Mathematics for Computer Science,Comedy|Romance
+69,Foundations of Discrete Mathematics with Algorithms and Programming,Comedy
+70,Logic and Discrete Mathematics: A Concise Introduction,Action|Comedy|Horror|Thriller
+71,Mathematics for Computer Science,Action
+72,Discrete Mathematics Demystified,Comedy|Drama
+73,Discrete Mathematics,Drama|War
+74,Student’s Solutions Guide to Accompany Discrete Mathematics and Its Applications,Drama|Romance
+75,Discrete Mathematics with Applications,Comedy|Drama
+76,"Discrete and Combinatorial Mathematics: An Applied Introduction, Fifth Edition",Action|Sci-Fi|Thriller
+77,Discrete Mathematics for Computer Science,Documentary
+78,Essential discrete mathematics for computer science,Action|Crime|Drama|Thriller
+79,"Foundations of Game Engine Development, Volume 1: Mathematics",Drama|Thriller
+80,Mathematics for Physical Science and Engineering: Symbolic Computing Applications in Maple and Mathematica,Children|Drama
+81,Advanced engineering mathematics with MATLAB,Crime|Drama|Romance
+82,Advanced Engineering Mathematics,Comedy|Drama
+83,"Advanced Engineering Mathematics, 10th Edition  ",Drama|Romance
+85,Schaum's Outline of Advanced Mathematics for Engineers and Scientists,Drama|Romance
+86,Algebra-1: Course in Mathematics for the IIT-JEE and Other Engineering Entrance Examinations,Action|Adventure|Drama
+87,Advanced Engineering Mathematics - Solutions Manual,Children|Comedy
+88,Calculus 1 Course in Mathematics for the IIT JEE and Other Engineering Exams,Comedy
+89,A First Course in Partial Differential Equations: with Complex Variables and Transform Methods (Dover Books on Mathematics),Action|Thriller
+92,Engineering Mathematics Transforms and Partial Differential Equations,Drama|Horror|Thriller
+93,Modern Cryptography: Applied Mathematics for Encryption and Information Security ,Comedy|Horror|Romance
+94,"Soil Mechanics of Earthworks, Foundations and Highway Engineering",Comedy|Drama|Romance
+95,"Foundation Engineering: Design and Construction in Tropical Soils (Balkema: Proceedings and Monographs in Engineering, Water and Earth Sciences)",Action|Adventure|Thriller
+96,"Practical Problems in Soil Mechanics and Foundation Engineering, 2 Wall and Foundation Calculations, Slope Stability",Comedy|Drama
+97,"Underwater Embankments on Soft Soil A Case History: A Case History (Balkema: Proceedings and Monographs in Engineering, Water and Earth Sciences)",Crime|Drama
+99,Eco- and Ground Bio-Engineering: The Use of Vegetation to Improve Slope Stability: Proceedings of the First International Conference on Eco-Engineering ... (Developments in Plant and Soil Sciences),Documentary
+100,"Education and Training in Geo-Engineering Sciences: Soil Mechanics and Geotechnical Engineering, Engineering Geology, Rock Mechanics",Drama|Thriller
+101,"Soil and Water Contamination: From molecular to catchment scale (Balkema: Proceedings and Monographs in Engineering, Water and Earth Sciences)",Adventure|Comedy|Crime|Romance
+102,Principles of Thermodynamics,Comedy
+103,Thermodynamics: An Engineering Approach 8th Edition,Mystery|Sci-Fi|Thriller
+104,Thermal Physics: Thermodynamics and Statistical Mechanics for Scientists and Engineers,Comedy
+105,A Student's Guide to Entropy,Drama|Romance
+106,"Energy, entropy and engines : an introduction to thermodynamics",Comedy|Drama
+107,"Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics",Adventure|Children|Comedy|Musical
+108,Introduction to Chemical Engineering Thermodynamics,Documentary
+110,Statistical Mechanics Made Easy: A Guide for Students and Researchers,Action|Drama|War
+111,Entropy demystified: the second law of thermodynamics reduced to plain common sense,Crime|Drama|Thriller
+112,Instructor Solutions Manual for Thermodynamics: An Engineering Approach,Action|Adventure|Comedy|Crime
+113,"THERMODYNAMICS: AN ENGINEERING APPROACH, NINTH EDITION",Drama|Mystery
+116,Statistical Mechanics,Documentary
+117,An Introduction to Thermal Physics,Crime|Drama
+118,"Introduction to Statistical Physics, Second Edition",Comedy|Romance
+119,Fundamentals of Thermal-Fluid Sciences,Comedy
+121,Thermodynamics For Dummies,Drama
+122,Fundamentals of Engineering Thermodynamics,Comedy|Romance
+123,The thermodynamics problem solver,Drama|Mystery|Romance
+125,The Laws of Thermodynamics: A Very Short Introduction,Comedy
+126,Theoretical Physics 5: Thermodynamics,Adventure|Children|Fantasy
+128,"Tropical Fruits, Volume 1 (Crop Production Science in Horticulture, Volume 20)",Documentary
+129,"Grapes (Crop Production Science in Horticulture, Volume 16)",Comedy|Romance
+132,Soil Microbiology and Sustainable Crop Production,Thriller
+135,Soilless Culture - Use of Substrates for the Production of Quality Horticultural Crops,Comedy
+137,"Carrots and Related Vegetable Umbelliferae (Crop Production Science in Horticulture, Volume 10)",Documentary
+140,The role of plant roots in crop production,Drama|Romance
+141,Soil Organic Matter and Its Role in Crop Production,Comedy
+144,Soilless Culture - Use of Substrates for the Production of Quality Horticultural Crops,Comedy
+145,"Rice: Origin, History, Technology, and Production (Wiley Series in Crop Science)",Action|Comedy|Crime|Drama|Thriller
+146,"Corn Crop Production: Growth, Fertilization and Yield",Adventure|Children
+147,"Agroecosystems: Soils, Climate, Crops, Nutrient Dynamics and Productivity",Drama
+148,Crop ecology : productivity and management in agricultural systems,Drama
+149,Nitrogen management in crop production,Crime|Drama|Thriller
+150,"Tropical Fruits, 2nd Edition, Volume 1 (Crop Production Science in Horticulture, Volume 20)",Adventure|Drama|IMAX
+151,"Microirrigation for Crop Production: Design, Operation, and Management",Action|Drama|Romance|War
+152,Phosphorus management in crop production,Drama|Horror
+153,Use of Reclaimed Water and Sludge in Food Crop Production,Action|Adventure|Comedy|Crime
+154,Emerging trends of plant physiology for sustainable crop production,Drama
+155,Priming and Pretreatment of Seeds and Seedlings: Implication in Plant Stress Tolerance and Enhancing Productivity in Crop Plants,Adventure|Drama|War
+156,Pesticides in Crop Production: Physiological and Biochemical Action,Comedy|Drama
+157,"Internal Combustion Engines: Improving Performance, Fuel Economy and Emission. IMech: E, London, 29–30 November 2011",Comedy|War
+158,"Multiphase Flow Dynamics 4: Turbulence, Gas Adsorption and Release, Diesel Fuel Properties",Adventure|Children
+159,"Welder's Handbook: For Gas Shielded Arc Welding, Oxy Fuel Cutting and Plasma Cutting",Crime|Drama|Mystery
+160,Fuel Systems for IC Engines,Action|Adventure|Mystery|Sci-Fi
+161,"Modern power station practice/ 2, Mechanical. Boilers, fuel and ashhandling plant.",Drama|Thriller|War
+162,"Combustion phenomena: selected mechanisms of flame formation, propagation, and extinction",Documentary
+163,Fuel Systems for IC Engines,Action|Romance|Western
+164,Instabilities of Flows: With and Without Heat Transfer and Chemical Reaction (CISM International Centre for Mechanical Sciences),Crime|Film-Noir|Mystery|Thriller
+165,Mechanical Gasoline Fuel-Injection System with Lambda Closed-Loop Control: K-Jetronic (Technical Instruction) Part 2,Action|Crime|Thriller
+166,Mechanical Gasoline Fuel-Injection System with Lambda Closed-Loop Control: K-Jetronic (Technical Instruction) Part 1,Comedy|Crime|Drama
+168,"Mechanical Boilers, Fuel-, and Ash-Handling Plant",Action|Drama|Romance
+169,Mechanical Gasoline Fuel-Injection System with Lambda Closed-Loop Control: K-Jetronic (Technical Instruction) Part 3,Adventure|Children|Drama
+170,Innovations in Fuel Economy and Sustainable Road Transport,Action|Adventure|Crime|Thriller
+171,Reduced Kinetic Mechanisms for Applications in Combustion Systems (Lecture Notes in Physics),Comedy|Drama
+172,Fuel Cell Technology Handbook (Handbook Series for Mechanical Engineering),Action|Sci-Fi|Thriller
+173,Mechanical Gasoline Fuel-Injection System with Lambda Closed-Loop Control K-Jetronic (Technical Instruction),Action|Crime|Sci-Fi
+174,"Solid Fuels Combustion and Gasification - Modeling, Simulation, and Equipment Operation; Volume 174 of Mechanical Engineering Series – Marcel Dekker",Comedy
+175,"Innovations in Fuel Economy and Sustainable Road Transport : 8-9 November 2011, Pune, India",Drama
+176,2017 ASME Boiler & Pressure Vessel Code BPVC Section III-Rules for Construction of Nuclear Facility Components-Divison 3-Containment Systems & Transport Packagings for Spent Nuclear Fuel & High Level Radioactive Waste BPVC-III-3 - 2017,Comedy
+177,"Fuel failure in normal operation of water reactors : experience, mechanisms and management : proceedings of a Technical Committee meeting held in Dimitrovgrad, Russian Federation, 26-29 May 1992",Horror
+178,A Textbook of Surveying and Levelling,Comedy|Drama
+179,Animal biodiversity:  An outline of higher-level classification and survey of taxonomic richness,Drama|Romance
+180,Surveying and Levelling,Comedy|Romance
+181,CURRENT DEMOCRATIC METHODS OF TEACHING ON THE SECONDARY SCHOOL LEVEL IN THE UNITED STATES - A SURVEY OF CLASSROOM TEACHING PRACTICES REPORTED BY TEACHERS IN A QUESTIONNAIRE AND SUPPLEMENTED BY CLASSROOM VISITATION AND OBSERVATION DURING THE SCHOOL YEAR 19,Action|Children
+183,"Fiscal design across levels of government, year 2000 surveys. / Country report",Comedy|Horror|Thriller
+184,"A survey of age-grade status, ability levels, general achievement and reading achievement of elementary school children of Amador County",Drama
+185,Theory of Machines and Mechanisms,Action|Crime|Thriller
+186,Principles of Physics: From Quantum Field Theory to Classical Mechanics,Comedy|Romance
+187,"Theory of Structures: Fundamentals, Framed Structures, Plates and Shells",Comedy
+188,Tensors: The Mathematics of Relativity Theory and Continuum Mechanics,Fantasy|Horror|Mystery
+189,Theory of Elastic Stability,Comedy|Fantasy
+190,Theory Of Machine And Mechanisms Si Edition solution manual,Thriller
+191,Strength of Materials: A Unified Theory,Drama|Romance
+193,"Measurement and Instrumentation, Second Edition: Theory and Application",Drama
+194,Introduction to thermodynamics and kinetic theory of matter,Comedy|Drama
+195,Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics,Comedy|Drama|Romance
+196,"Stability of Structures: Elastic, Inelastic, Fracture and Damage Theories  ",Horror|Sci-Fi
+198,"Elasticity. Theory, Applications, and Numerics",Action|Crime|Drama|Mystery|Sci-Fi|Thriller
+199,Theory and Analysis of Elastic Plates and Shells,Drama|Musical|Romance
+201,Theory of Lift: Introductory Computational Aerodynamics in MATLAB®/OCTAVE,Drama|Fantasy
+202,"Fundamentals of Robotic Mechanical Systems: Theory, Methods, and Algorithms",Drama|Romance
+203,Advanced mechanics of composite materials and structures,Comedy
+204,"Spectral Theory and Quantum Mechanics: Mathematical Foundations of Quantum Theories, Symmetries and Introduction to the Algebraic Formulation",Action
+205,Theory of elasticity,Comedy|Drama
+206,Theory and Problems of Theoretical Mechanics (Schaum's Outline),Documentary
+207,Strength of Materials. Elementary Theory and Problems,Drama|Romance
+208,"Python for Probability, Statistics, and Machine Learning",Action|Adventure|Sci-Fi
+209,Probability and Statistics: A Course for Physicists and Engineers,Drama
+210,"Bayesian Statistics The Fun Way: Understanding Statistics And Probability With Star Wars, LEGO, And Rubber Ducks",Western
+211,"Python for Probability, Statistics, and Machine Learning",Drama
+212,Schaum's Outline of Probability and Statistics,Adventure|Comedy|Crime|Mystery
+213,Applied Statistics and Probability for Engineers,Drama
+214,Probability and statistics by example. Basic probability and statistics,Drama|War
+215,"Cluster Analysis, Fifth Edition (Wiley Series in Probability and Statistics)  ",Drama|Romance
+216,"Statistics 101: From Data Analysis and Predictive Modeling to Measuring Distribution and Determining Probability, Your Essential Guide to Statistics (Adams 101)",Comedy
+217,"Analysis of Financial Time Series, Third Edition (Wiley Series in Probability and Statistics)",Drama|Thriller
+218,Probability and Statistical Inference (9th Edition),Comedy|Drama
+219,Probability and statistics for data science : math + R + data,Drama
+220,Statistics and Probability for Engineering Applications with Microsoft Excel,Horror
+222,Introduction to Probability and Statistics for Engineers and Scientists,Drama|Romance
+223,Probability and Statistics for Engineering and the Sciences,Comedy
+224,Introduction To Probability: Models And Applications,Comedy|Drama|Romance
+225,Probability and Statistics for Engineers and Scientists (9th Edition)  ,Drama|Thriller
+227,"Probability and Random Processes, Third Edition",Action|Thriller
+228,Probability and Statistics,Comedy
+229,Probability for Statistics and Machine Learning: Fundamentals and Advanced Topics,Drama|Thriller
+230,Hydrology and water resource management : breakthroughs in research and practice,Drama|Thriller
+231,Curve Number Hydrology: State of the Practice,Adventure|Comedy
+232,Irrigation and Drainage Engineering,Comedy|Drama|Romance
+233,Canal Automation for Irrigation Systems (ASCE Manuals and Reports on Engineering Practice (MOP)131),Drama
+234,Irrigation and drainage engineering,Comedy
+235,Irrigation and Drainage Engineering,Comedy|Drama
+236,Irrigation and Drainage Engineering,Action|Comedy|Romance
+237,"Handbook of farm, dairy, and food machinery engineering",Comedy|Romance
+238,"Handbook of farm, dairy, and food machinery  ",Adventure|Children
+239,"Handbook of farm, dairy, and food machinery",Animation|Children|Comedy|Romance
+240,"Handbook of farm, dairy and food machinery engineering",Thriller
+241,Handbook of Farm Dairy and Food Machinery,Children|Drama
+242,"Handbook of Farm, Dairy and Food Machinery Engineering 3rd Edition 2019",Drama|Musical
+243,"Handbook of farm, dairy, and food machinery",Children|Comedy|Fantasy
+246,"Handbook of Farm, Dairy, and Food Machinery",Documentary
+247,An analysis of changes in the degree of concentration in the iron and steel and farm machinery and equiptment industries,Crime|Drama
+248,"Piezoelectric energy harvesting : methods, progress, and challenges",Comedy
+249,Innovative materials and systems for energy harvesting applications,Drama|Romance
+250,Unnatural harvest: how genetic engineering is altering our food,Children|Comedy
+251,Quality of Ground Water - Guidelines for Selection and Application of Frequently Used Models,Action
+252,Water Pollution: Environmental Impact Assessment of Recycled Wastes on Surface and Ground Waters; Engineering Modeling and Sustainability,Comedy|Romance
+253,Standard guidelines for artificial recharge of ground water,Drama|Horror
+254,Quality of Ground Water: Guidelines for Selection and Application of Frequently Used Models,Drama
+255,"Solar Engineering of Thermal Processes, Photovoltaics and Wind",Comedy
+256,Wind and Solar Based Energy Systems for Communities,Comedy|Sci-Fi
+257,Solar Engineering Of Thermal Processes: Photovoltaics And Wind,Mystery|Thriller
+258,"Solar Engineering of Thermal Processes, Photovoltaics and Wind",Adventure|Children|Comedy|Fantasy|Romance
+259,"Geoinformation: Remote Sensing, Photogrammetry and Geographic Information Systems",Crime|Drama|Thriller
+260,"Learning Geospatial Analysis with Python, 2nd Edition: An effective guide to geographic information systems and remote sensing analysis using Python 3",Action|Adventure|Sci-Fi
+261,Textbook of Remote Sensing and Geographical Information Systems  ,Drama
+262,Handbook on Advances in Remote Sensing and Geographic Information Systems: Paradigms and Applications in Forest Landscape Modeling,Children|Drama
+263,"Geoinformation: Remote Sensing, Photogrammetry and Geographical Information Systems",Drama
+265,Environmental Modelling with GIS and Remote Sensing (Geographic Information Systems Workshop),Drama|Fantasy|Romance
+266,Learning Geospatial Analysis with Python: An effective guide to geographic information system and remote sensing analysis using Python 3,Drama|Romance|War|Western
+267,Textbook of remote sensing and geographical information systems,Comedy
+269,Remote Sensing and Geographical Information Systems for Resource Management in Developing Countries,Drama
+270,Remote Sensing and Geographical Information Systems in Epidemiology,Drama|Romance
+271,Handbook on Advances in Remote Sensing and Geographic Information Systems: Paradigms and Applications in Forest Landscape Modeling,Drama
+272,Learning geospatial analysis with Python : an effective guide to geographic information system and remote sensing analysis using Python 3,Comedy|Drama
+273,"Geoinformation: Remote Sensing, Photogrammetry and Geographic Information Systems",Drama|Horror|Sci-Fi
+274,"Geoinformation: Remote Sensing, Photogrammetry and Geographic Information Systems, Second Edition",Comedy
+275,"Geoinformation: Remote Sensing, Photogrammetry and Geographical Information Systems",Comedy
+276,"The Human Brain Book: An Illustrated Guide to Its Structure, Function, and Disorders",Comedy|Romance
+277,Vander’s Human Physiology,Drama
+278,Strength Training Anatomy - 2nd Edition,Comedy
+279,"The Concise Human Body Book: An Illustrated Guide to its Structure, Function, and Disorders",Drama
+280,Netter Interactive Atlas of Human Anatomy v3.0,Drama|Thriller
+281,Human Anatomy,Comedy|Drama|Romance
+282,Human Anatomy and Physiology,Drama
+283,Abrahams’ and McMinn’s Clinical Atlas of Human Anatomy,Crime|Drama
+284,Larsen's Human Embryology,Action|Crime
+285,Human anatomy & physiology,Drama|Horror
+287,The Brain and the Nervous System (The Human Body),Comedy|Romance
+288,"Bone and Muscle: Structure, Force, and Motion (The Human Body)",Action|Crime|Thriller
+289,Color Atlas of Human Body,Comedy|Romance
+290,The Digestive System (The Human Body),Crime|Drama
+291,Your Body. How It Works. Human Development,Drama|Thriller
+292,Schaum's Outline of Human Anatomy and Physiology,Action|Drama|Sci-Fi|Thriller
+293,The Respiratory System (The Human Body),Action|Crime|Drama|Thriller
+294,Sobotta Atlas of Human Anatomy Volume 1-2-3,Comedy|Romance
+295,The Reproductive System (The Human Body),Comedy|Romance
+296,Pilates Anatomy,Comedy|Crime|Drama|Thriller
+298,"Getting Started with Sensors: Measure the World with Electronics, Arduino, and Raspberry Pi",Drama
+299,"Measurement, Instrumentation, and Sensors Handbook: Electromagnetic, Optical, Radiation, Chemical, and Biomedical Measurement",Drama
+300,"Measurement, Instrumentation, and Sensors Handbook, Second Edition: Spatial, Mechanical, Thermal, and Radiation Measurement",Drama
+301,"The Measurement, Instrumentation and Sensors Handbook",Drama|Romance
+302,Measuring Current Voltage and Power Handbook of Sensors and Actuators Vol 7,Drama|Romance
+303,Sensors: Projects and Experiments to Measure the World with Arduino and Raspberry Pi,Action|Thriller|Western
+304,Advanced Interfacing Techniques for Sensors. Measurement Circuits and Systems for Intelligent Sensors,Comedy|Drama
+305,"Make: Getting Started with Sensors: Measure the World with Electronics, Arduino, and Raspberry Pi",Comedy
+306,Principles of Electrical Measurement (Sensors Series.),Drama
+307,"Handbook of humidity measurement - methods, materials and technologies. Volume 2, Electronic and electrical humidity sensors",Drama
+308,"Measurement, instrumentation, and sensors handbook. Electromagnetic, optical, radiation, chemical, and biomedical measurement",Comedy|Drama
+310,"Measurement, Instrumentation, and Sensors Handbook",Comedy
+311,Measurement Systems And Sensors,Horror|Thriller
+312,"Measurement, Data Analysis, and Sensor Fundamentals for Engineering and Science, 2nd Edition  ",Comedy
+313,Phasor Measurement Units and Wide Area Monitoring Systems. From the Sensors to the System,Animation|Children
+314,"Measurement, Instrumentation, and Sensors Handbook.  Spatial, Mechanical, Thermal and Radiation Measurement",Children|Drama|Fantasy|Mystery
+315,"Measurement, instrumentation, and sensors handbook. Electromagnetic, optical, radiation, chemical, and biomedical measurement",Action|Drama|Thriller
+316,Measurement systems and sensors,Action|Adventure|Sci-Fi
+317,The Tao of Measurement: A Philosophical View of Flow and Sensors,Comedy|Drama|Fantasy
+318,Precision Nanometrology: Sensors and Measuring Systems for Nanomanufacturing,Crime|Drama
+319,"Microbiology and Molecular Diagnosis in Pathology. A Comprehensive Review for Board Preparation, Certification and Clinical Practice",Comedy|Drama|Thriller
+320,"Staphylococcus aureus: Microbiology, Pathology, Immunology, Therapy and Prophylaxis",Film-Noir|Thriller
+321,Bacterial Plant Pathology: Cell and Molecular Aspects,Drama
+322,Fundamentals of Time-Frequency Analyses in Matlab/Octave,Comedy|Drama
+324,Real-Time Digital Signal Processing: Implementation and Application,Comedy|Drama
+325,"Advanced signal processing handbook : theory and implementation for radar, sonar, and medical imaging real time systems",Comedy
+326,"Real-Time Digital Signal Processing: Fundamentals, Implementations and Applications",Drama
+327,Prentice Discrete-Time Digital Signal Processing,Action|Comedy|Sci-Fi
+328,Time-Frequency Signal Analysis and Processing: A Comprehensive Review,Horror|Thriller
+329,"Advanced Signal Processing Handbook: Theory and Implementation for Radar, Sonar, and Medical Imaging Real Time Systems",Adventure|Drama|Sci-Fi
+330,"Statistical signal processing: detection, estimation, and time series analysis",Action|Crime|Horror
+331,DSP for Embedded and Real-Time Systems. Expert Guide,Drama
+332,"Real-Time Digital Signal Processing from MATLAB to C with the TMS320C6x DSPs, Third Edition",Horror|Sci-Fi
+333,"Advanced signal processing on brain event-related potentials : filtering ERPs in time, frequency and space domains sequentially and simultaneously",Comedy
+334,"Quadrature Amplitude Modulation: From Basics to Adaptive Trellis-Coded, Turbo-Equalised and Space-Time Coded OFDM, CDMA and MC-CDMA Systems",Drama
+335,"Time-Frequency Signal Analysis and Processing, Second Edition: A Comprehensive Reference",Mystery|Thriller
+336,Probability and random processes: using MATLAB with applications to continuous and discrete time systems,Drama|War
+337,"Real-Time Digital Signal Processing: Implementations, Application and Experiments with the TMS320C55X",Drama
+338,Real-time digital signal processing from MATLAB to C with the TMS320C6x DSPs,Action|Sci-Fi|Thriller
+339,"Signal Analysis: Wavelets, Filter Banks, Time-Frequency Transforms and Applications",Comedy|Romance
+340,Real-time digital signal processing based on the TMS320C6000,Adventure|Drama|War
+341,"Four Short Courses on Harmonic Analysis: Wavelets, Frames, Time-Frequency Methods, and Applications to Signal and Image Analysis",Drama
+342,Discrete-Time Signal Processing,Comedy
+343,"Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review",Children
+344,Crohn's Disease and Ulcerative Colitis: From Epidemiology and Immunobiology to a Rational Diagnostic and Therapeutic Approach,Comedy
+345,Atlas of Confocal Laser Scanning In-vivo Microscopy in Opthalmology - Principles and Applications in Diagnostic and Therapeutic Ophtalmology,Comedy|Drama
+346,Diagnostic and Therapeutic Nuclear Medicine for Neuroendocrine Tumors,Drama|Musical
+347,Diagnostic and Therapeutic Antibodies ,Drama|Film-Noir|Romance
+348,Diagnostic and Therapeutic Applications of Exosomes in Cancer,Comedy
+349,Art Therapy and Ad Hd: Diagnostic and Therapeutic Approaches,Action|Crime|Drama|Thriller
+350,Breast Cancer: Diagnostic Imaging and Therapeutic Guidance,Drama|Mystery|Thriller
+351,Special pathology and diagnostics: with therapeutic hints,Comedy|Drama|Romance
+352,"Ophthalmic Drugs: Diagnostic and Therapeutic Uses, 5th Edition",Comedy|Drama
+353,The ''Childhood Hand that Disturbs'' Projective Test: A Diagnostic and Therapeutic Drawing Test,Action|Crime|Fantasy|Thriller
+354,Lung Cancer: Diagnostic and Therapeutic Methods and Reviews,Drama
+355,"Biological, Diagnostic and Therapeutic Advances in Alzheimer's Disease: Non-Pharmacological Therapies for Alzheimer's Disease",Children|Comedy|Fantasy
+356,Breast cancer : diagnostic imaging and therapeutic guidance,Comedy|Drama|Romance|War
+357,"Thymus Gland Pathology: Clinical, Diagnostic and Therapeutic Features",Comedy|Romance
+358,The Emotional Life Interview: A Psychosocial Diagnostic and Therapeutic Procedure,Drama
+359,"Diseases of the Gastro-Intestinal Tract: Some Diagnostic, Therapeutic and Fundamental Aspects",Comedy|Drama|Romance
+360,Diagnostic and Therapeutic Procedures in Gastroenterology: An Illustrated Guide,Action|Comedy
+361,Peripheral Vascular Disease: Basic Diagnostic and Therapeutic Approaches 3rd Edition,Comedy|Drama|Romance
+362,"Retinal Degenerations: Biology, Diagnostics, and Therapeutics",Adventure|Children|Romance
+363,Human Modelling for Bio-Inspired Robotics. Mechanical Engineering in Assistive Technologies,Documentary
+364,A New Bio-inspired Optimization Algorithm Based on the Self-defense Mechanism of Plants in Nature,Adventure|Animation|Children|Drama|Musical|IMAX
+365,"Bio-inspired structured adhesives : Biological prototypes, fabrication, tribological properties, contact mechanics, and novel concepts",Drama
+366,Biological and Bio-inspired Nanomaterials: Properties and Assembly Mechanisms,Drama|Horror|Mystery|Thriller
+367,Bio- and Chemo-Mechanical Processes in Geotechnical Engineering: Géotechnique Symposium in Print 2013,Action|Comedy|Crime|Fantasy
+368,Advances in Bio-Mechanical Systems and Materials,Adventure|Comedy|Western
+369,Buried Waste in the Seabed; Acoustic Imaging and Bio-toxicity,Drama
+370,Bio-Mechanical,Action|Comedy
+371,bio fluid mechanics,Comedy|Drama
+372,"Smart system Engineering: Infra-structure Systems Engineering, Bio-informatics and Computational Biology and Evolutionary Computation",Comedy|Drama|Romance
+373,Bio-Mechanical (Irons and Works Book 4),Thriller
+374,IUTAM Symposium on Synthesis in Bio Solid Mechanics (Solid Mechanics and Its Applications),Children|Comedy
+376,Advances in bio-mechanical systems and materials,Action|Thriller
+377,"Personal Protective Equipment for Chemical, Biological, and Radiological Hazards: Design, Evaluation, and Selection",Action|Romance|Thriller
+378,Detection of Nuclear and Radiological Weapons,Comedy|Romance
+379,Nuclear Weapons Effects - Radiological Scientific Officers Hanbook,Action|Sci-Fi|Thriller
+380,X-ray equipment maintenance and repairs workbook for radiographers and radiological technologists,Action|Adventure|Comedy|Romance|Thriller
+381,Medical management of radiological casualties. Handbook,Drama|Romance
+382,Highway engineering handbook: building and rehabilitating the infrastructure,Drama|Horror|Romance|Thriller
+383,"Bridge Engineering: Rehabilitation, and Maintenance of Modern Highway Bridges",Western
+384,"Case studies of rehabilitation, repair, retrofitting, and strengthening of structures",Action|Crime|Drama
+385,Advanced Dam Engineering For Design Construction And Rehabilitation  ,Drama
+386,"Advanced Dam Engineering for Design, Construction, and Rehabilitation",Drama
+387,"Bridge decks : design, construction, rehabilitation, replacement",Action|Comedy
+388,Advances in Structural Engineering and Rehabilitation: Select Proceedings of TRACE 2018,Drama
+389,Seismic rehabilitation of existing buildings,Drama|Romance|War
+390,"Repair and rehabilitation of reinforced concrete structures : the state of the art : proceedings of the international seminar, workshop and exhibition, Maracaibo, Venezuela, April 28-May 1, 1997",Action|Crime|Drama
+391,An Introduction to Rehabilitation Engineering,Crime|Drama
+393,"Road pavement material characterization and rehabilitation : selected papers from the 2009 GeoHunan International Conference, August 3-6, 2009, Changsha, Hunan, China",Action|Adventure|Fantasy
+405,"New technologies in construction and rehabilitation of Portland cement concrete pavement and bridge deck pavement : selected papers from the 2009 GeoHunan International Conference, August 3-6, 2009, Changsha, Hunan, China",Action|Fantasy
+406,"Geotechnical Engineering for Disaster Mitigation and Rehabilitation: Proceedings of the 2nd International Conference GEDMAR08, Nanjing,China",Drama
+407,Rehabilitation engineering applied to mobility and manipulation / Rory A. Cooper,Horror|Thriller
+408,Highway engineering handbook : building and rehabilitating the infrastructure,Drama
+409,Manhole Inspection and Rehabilitation,Crime|Drama
+410,"Pipelines 2017: Construction and rehabilitation: proceedings of sessions of the Pipelines 2017 Conference, August 6-9, 2017, Phoenix, Arizona",Children|Comedy|Fantasy
+412,Manhole Inspection and Rehabilitation,Drama
+413,Introduction to Neural Engineering for Motor Rehabilitation,Comedy
+414,"Bridge Engineering: Rehabilitation, and Maintenance of Modern Highway Bridges",Comedy
+415,Principles of Geotechnical Engineering,Comedy|Thriller
+416,Engineering Geology,Western
+417,Civil engineering hydraulics: essential theory with worked examples,Comedy|Romance
+418,"Geotechnical Engineering: Soil and Foundation Principles and Practice, 5th Ed.",Drama
+419,Geotechnical Investigation Methods: A Field Guide for Geotechnical Engineers,Comedy
+420,Soil Mechanics in Engineering Practice,Action|Comedy|Crime|Thriller
+421,Water Chemistry: An Introduction to the Chemistry of Natural and Engineered Aquatic Systems  ,Adventure|Children|Drama
+422,"3D Printed Science Projects: Physics, Math, Engineering and Geology Models",Thriller
+423,Rock Slope Engineering: Civil and Mining,Action|Thriller
+424,Fundamentals of Drilling Engineering,Drama
+425,Rock Mechanics and Engineering,Drama|Romance
+426,Groundwater Quantity and Quality Management,Horror|Sci-Fi|Thriller
+427,Engineering Geology - Principles and Practice,Drama|Mystery|Romance|Thriller
+428,Earth and Rock-Fill Dams: General Design and Construction Considerations,Drama
+429,"Principles of Foundation Engineering, SI Edition",Comedy
+430,"Geology: Basics for Engineers, Second Edition",Comedy|Drama
+431,Practical Engineering Geology,Crime|Drama
+432,Geologic Hazards: A Field Guide for Geotechnical Engineers,Adventure|Comedy|Western
+433,Drilling engineering,Comedy
+434,"Nuclear Geophysics: Applications in Hydrology, Hydrogeology, Engineering Geology, Agriculture and Environmental Science",Action|Adventure|Thriller
+435,Fundamentals of Building Construction: Materials  and Methods,Comedy|Sci-Fi
+436,"Fundamentals Of Building Construction: Materials And Methods, 7th Edition",Drama|Thriller
+437,Solutions Manual for Mechanics of Materials in SI Units,Comedy
+438,Materials for Civil and Construction Engineers,Action|Comedy|Drama
+440,Construction Databook: Construction Materials and Equipment,Comedy|Romance
+441,"Constructing Architecture: Materials, Processes, Structures",Comedy
+442,Tiny houses built with recycled materials : inspiration for constructing tiny homes using salvaged and reclaimed supplies,Action|Adventure|Sci-Fi
+444,Mechanics of Materials - 9th Edition + Solutions Manual,Comedy|Romance
+445,"Concrete: Microstructure, Properties, and Materials",Comedy
+446,"Ceramic and Glass Materials: Structure, Properties and Processing",Drama|Romance
+448,"ICE Manual of Construction Materials, Volumes I and II",Drama
+449,Fundamentals of Building Construction: Materials and Methods,Comedy
+450,"Designing Interior Architecture: Concept, Typology, Material, Construction",Comedy|Drama
+451,"Kitchen & bath products and materials : cabinetry, equipment, surfaces",Drama|Mystery|Romance
+452,"Construction Materials, Methods and Techniques",Drama
+453,Construction Materials Manual,Comedy|Romance
+454,"Building Materials, Third Edition",Drama|Thriller
+455,"Statics and Strength of Materials for Architecture and Building Construction, 4th Edition",Adventure|Children|Drama
+456,Building from waste : recovered materials in architecture and construction,Crime|Drama|Thriller
+457,"Modern earth buildings: Materials, engineering, constructions and applications",Thriller
+458,Strength of materials,Drama|Western
+459,"Mechanics of Materials, 8th Edition  ",Action|Adventure|Crime|Drama|Romance|Thriller
+460,Engineering Mechanics 2: Mechanics of Materials,Comedy
+461,"Mechanics of Materials, SI Edition",Drama|Romance
+464,Mechanics of materials - Solution Manual,Action|Adventure|Crime|Thriller
+466,"Engineering Materials 1, Third Edition: An Introduction to Properties, Applications and Design",Action|Comedy|War
+467,Strength of Materials (Materials Science and Technologies Series),Comedy
+468,Schaum's Outline of Strength of Materials 4th Edition,Comedy|Romance
+469,Strength of Materials: A Unified Theory,Drama|Romance
+470,Mechanics of materials : an integrated learning system,Comedy
+471,Mechanics of materials: an introduction to the mechanics of elastic and plastic deformation of solids and structural materials,Comedy
+472,"Engineering Materials 2, Third Edition: An Introduction to Microstructures, Processing and Design",Comedy|Drama
+473,Strength of Materials,Comedy|War
+474,"Mechanics of Materials Volume 1, Third Edition : An Introduction to the Mechanics of Elastic and Plastic Deformation of Solids and Structural Materials",Action|Thriller
+475,Fundamentals and Applications of Rock Mechanics,Drama
+476,Schaum's Outline of Strength of Materials,Comedy|Drama
+477,Advanced Mechanics of Materials,Drama|Musical
+478,Mechanics of Solids and Materials,Comedy|Crime|Drama
+479,History of Strength of Materials,Action|Crime|Thriller
+480,Mechanics of Materials. Instructor's and Solutions Manual,Action|Adventure|Sci-Fi|Thriller
+481,Encyclopedia of Survey Research Methods (2 Volume Set),Drama|Thriller
+482,"Questionnaire Design: How to Plan, Structure and Write Survey Material for Effective Market Research ",Crime|Drama|Thriller
+484,"Old Testament Survey: The Message, Form, and Background of the Old Testament, 2nd Edition",Adventure|Children
+485,Ancient Israelite Literature in Its Cultural Context: A Survey of Parallels Between Biblical and Ancient Near Eastern Texts ,Action|Adventure|Comedy|Fantasy
+486,The Wonder That Was India: A Survey of the Culture of the Indian Sub-Continent Before the Coming of the Muslims,Comedy
+487,Key Themes of the Old Testament: A Survey of Major Theological Themes,Comedy|Western
+488,Survey Research Methods,Drama|Romance
+489,A Survey of the Old Testament,Comedy
+490,"Design, Evaluation, and Analysis of Questionnaires for Survey Research",Thriller
+491,"Datums and Map Projections: For Remote Sensing, GIS and Surveying",Drama
+492,"Introducing the New Testament: A Historical, Literary, and Theological Survey",Comedy|Mystery
+493,Designing and Conducting Survey Research: A Comprehensive Guide,Action|Crime|Drama
+494,"The Wiley handbook of psychometric testing : a multidisciplinary reference on survey, scale, and test development",Action|Adventure|Thriller
+495,Encountering the New Testament : a historical and theological survey,Drama
+496,"The Encyclopedia of Eastern Philosophy and Religion: Buddhism, Hinduism, Taoism, Zen — A Complete Survey of the Teachers, Traditions, and Literature of Asian Wisdom",Comedy|Drama|Romance|Thriller
+497,The message of the Prophets : a survey of the prophetic and apocalyptic books of the Old Testament,Comedy|Romance
+499,Surveying for Engineers,Comedy|Romance
+500,Encountering the Old Testament: A Christian Survey,Comedy|Drama
+501,Atmospheric Science: An Introductory Survey,Drama
+502,Nationalism and modernism: a critical survey of recent theories of nations and nationalism,Action|Children|Romance
+504,Excel for Scientists and Engineers - Numerical Methods,Action|Drama|Sci-Fi
+505,"Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics",Comedy
+506,Numerical Methods for Solving Partial Differential Equations: A Comprehensive Introduction for Scientists and Engineers,Drama|Fantasy|Romance
+507,An Introduction to MATLAB Programming and Numerical Methods for Engineers,Crime|Drama|Thriller
+508,Applied Numerical Methods with MATLAB for Engineers and Scientists,Drama
+509,Numerical Methods in Engineering with Python,Drama|Romance
+510,Numerical Methods,Drama
+511,Numerical Methods for Engineers and Scientists Using MATLAB®,Action|Drama
+512,A Student’s Guide to Numerical Methods,Horror|Sci-Fi
+513,Numerical Methods for Engineers (7th edition),Comedy|Mystery|Romance
+514,The finite element method in engineering,Comedy
+515,Numerical Methods for Ordinary Differential Equations,Drama|Romance
+516,Numerical Methods in Engineering With Python,Comedy|Drama
+517,Introductory methods of numerical analysis,Action|Drama|Mystery
+518,An Introduction to Numerical Methods and Analysis,Comedy
+519,Numerical methods: problems and solutions,Action|Crime|Drama|Sci-Fi|Thriller
+520,Numerical Methods in Engineering with Python 3,Comedy
+521,Numerical Solution of Differential Equations: Introduction to Finite Difference and Finite Element Methods,Crime|Thriller
+522,Numerical Solutions Of Partial Differential Equations By The Finite Element Method,Action|Drama
+523,Numerical Methods for Partial Differential Equations. Finite Difference and Finite Volume Methods,Drama
+524,"The Interior Design Course - Principles, Practices and Techniques for the Aspiring Designer",Drama
+526,Geotechnical Engineering: Principles and Practices of Soil Mechanics and Foundation Engineering (Civil and Environmental Engineering),Drama
+527,Practical Crime Scene Analysis and Reconstruction (CRC Series in Practical Aspects of Criminal and Forensic Investigations),Drama|War
+528,Norris - Deconstruction -Theory and Practice,Comedy|Drama
+529,Constructing Questions for Interviews and Questionnaires: Theory and Practice in Social Research,Drama
+531,Fans and Ventilation: A practical guide,Children|Drama
+532,Professional Practice for Interior Designers (5th Edition),Comedy|Crime|Horror
+533,"Indoor Air Quality Guide - Best Practices for Design, Construction, and Commissioning",Action|Adventure|Fantasy|Mystery
+534,"Value Engineering: Practical Applications...for Design, Construction, Maintenance and Operations (RSMeans)",Drama|Romance
+535,Steel Structures - Design and Practice,Drama
+536,Theory Construction and Model-Building Skills: A Practical Guide for Social Scientists,Drama
+537,Deep Excavation: Theory and Practice,Drama
+538,Theory and Practice of Pile Foundations,Drama
+539,"Construction Supervision QC + HSE Management in Practice: Quality Control, OHS, and Environmental Performance Reference Guide",Comedy|Drama|Romance
+540,Practical Straw Bale Building,Thriller
+541,Precast Prestressed Concrete Parking Structures: Recommended Practice for Design and Construction,Action|Sci-Fi|Thriller
+542,Compiler Construction: Principles and Practice,Comedy|Drama|Romance
+543,"Tensile surface structures a practical guide to cable and membrane construction; materials, design, assembly and erection",Comedy|Romance|Thriller
+544,"Planting Wetlands and Dams: A Practical Guide to Wetland Design, Construction and Propagation, Second Edition",Action|Crime
+546,Social Constructionism: Sources and Stirrings in Theory and Practice,Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+547,Applied mathematics in hydraulic engineering : an introduction to nonlinear differential equations,Action|Adventure|Thriller
+548,Handbook of applied hydraulics,Action|Mystery|Thriller
+549,Applied mathematics in hydraulic engineering: an introduction to nonlinear differential equations,Drama|Musical
+550,Data Structure and Algorithmic Thinking with Python  Data Structure and Algorithmic Puzzles,Comedy|Romance
+551,Deep Learning for Computer Vision with Python,Animation|Children|Fantasy|Musical
+552,"Algorithms, 4th Edition: Essential Information about Algorithms and Data Structures",Action|Adventure|Comedy|Romance
+553,Data Science For Dummies,Action|Drama|Western
+555,Analytics in a Big Data World: The Essential Guide to Data Science and its Applications,Crime|Thriller
+556,Serious Cryptography: A Practical Introduction to Modern Encryption,Documentary
+558,Data Structures and Algorithms in C++,Action|Adventure|Animation|Children|Fantasy
+562,"Coding Theory - Algorithms, Architectures, and Applications",Comedy|Drama
+563,"Python Deep Learning: Exploring deep learning techniques, neural network architectures and GANs with PyTorch, Keras and TensorFlow",Drama|Romance
+564,Clean Architecture: A Craftsman’s Guide to Software Structure and Design,Comedy
+567,"Internet of Things: Architectures, Protocols and Standards",Comedy|Drama
+568,"Computer Architecture, Sixth Edition: A Quantitative Approach",Comedy|Drama
+569,Computer Systems: A Programmer's Perspective,Comedy|Drama
+573,Practical C++ Design: From Programming to Architecture,Drama
+574,Semantic Software Design: A New Theory and Practical Guide for Modern Architects,Comedy|Drama
+575,Practical Microservices Architectural Patterns - Event-Based Java Microservices with Spring Boot and Spring Cloud,Children|Comedy
+577,"Database Systems  Design, Implementation, & Management",Adventure|Children|Drama

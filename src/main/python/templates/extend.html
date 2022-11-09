@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DhXWdTRQ9oBH4Q4dvJ2m/e3zsNqZLniqVg92nJQ7jU8Yjq13dyIeHvhvY3GXQFf2n" crossorigin="anonymous">  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+<title>Library</title>
+<link rel =icon href = static/logo.png type = image/x-icon>
+</head>
+<body>
+    <h1>Books</h1>
+    {% for i in prediction_list %}
+      <div class="card">
+        <div class="card-body">
+            <!--<h1 class="card-subtitle mb-2 text-muted">Precision: {{i.Precision}}</h1>-->
+            <h1 class="card-subtitle mb-2 text-muted"><b>Book Name:</b> {{i.Book_Name}}</h1>
+            <h1 class="card-subtitle mb-2 text-muted"><b>Book Author:</b> {{i.Book_Author}}</h1>
+            <h1 class="card-subtitle mb-2 text-muted"><b>Topics: </b>{{i.Topics}}</h1>
+              <img src="https://covers.openlibrary.org/b/isbn/{{i.Book_ISBN}}-M.jpg"/>
+        </div>
+      </div>
+    {% endfor %}
+
+</body>
+</html>

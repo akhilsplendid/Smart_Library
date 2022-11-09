@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon" href="images/favicon.png" type="image/png" sizes="16x16">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="iLand Multipurpose Landing Page Template">
+<meta name="keywords" content="iLand HTML Template, iLand Landing Page, Landing Page Template">
+<link href="https://fonts.googleapis.com/css?family=Open%20Sans:300,400,500,600,700" rel="stylesheet" type="text/css">
+<!-- Resource style -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <style>
+  .fakeimg {
+      height: 200px;
+      background: #aaa;
+  }
+  {
+    height: 100%;
+    min-height: 100%;
+}
+
+
+.grid {
+  display: flex;
+}
+.card {
+	display: flex;
+}
+
+
+.grid > * {
+  flex:1 1 30vw;
+
+  background-color: #ddd;
+  margin: 0 0 1rem;
+  padding: .5rem;
+  text-align: center;
+  border-style: solid;
+  border-width: 5px;
+  background-color: white;
+  border-color: black;
+  border-radius: 12px;
+  colour:white;
+}
+  </style>
+</head>
+<body>
+
+<div class="jumbotron text-center" style="margin-bottom:0;background-color:#061280;color:white;">
+  <h1>Smart Library</h1>
+  <p>A place to find your resource</p>
+</div>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+    </div>
+	<div style="postion:right">
+      <ul style="float:right" class="nav navbar-nav">
+        <li><a href="http://localhost:8080/main.html">Home</a></li>
+		 <li><a href="">Page-x</a></li>
+		  <li><a href="">Page-y</a></li>
+      </ul>
+    </div>
+
+  </div>
+</nav>
+<div class="container">
+  <div class="row">
+    <!-- add your code here akshay-->
+	<div class="col-sm-8">
+		<div class="wrapper">
+  <div class="main app form" id="main"><!-- Main Section-->
+
+    <div id="pricing" class="pricing-section text-center">
+      <div class="container">
+
+        <div class="col-md-8 col-sm-8 nopadding">
+
+		<div class="section-form">
+        <div class="intro">
+            <h2 style="color:#0584C5">Recommended for you</h2>
+        </div>
+        <input name="textbox1" id="textbox1" type="text" />
+        <!--function() {lnk.href = "http://bs.infinibrain.net/" + userInput + ".xml";}
+        "location.href = 'www.yoursite.com';"
+        'http://localhost:2000/search?text=document.getElementById('textbox1').value'
+        <input name="buttonExecute" onclick="myFunction(document.getElementById('textbox1').value)" type="button" value="Execute" />-->
+        <input name="buttonExecute" onclick="location.href = 'search?text='+document.getElementById('textbox1').value;" type="button" value="Execute" />
+</div>
+			<!--<div class="grid">-->
+            {% for i in recommendation_list %}
+			<!--<div><a href="http://localhost:8080/springer2008.pdf"><img src="http://images.amazon.com/images/P/157586326X.01.LZZZZZZZ.jpg"  width="100" height="140"></a></br><h4>{{i.Book_Name}}</h4></br><i>{{i.Book_Genre}}</i></div>-->
+
+                    <div class="col-md-4" style="margin-top:50px">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src={{i.Book_Image}} width="80" height="120"/>
+                            <h4 class="text-yellow"><b>Book Name:</b> {{i.Book_Name}}</h4>
+							<h4 class="text-yellow"><b>Rating:</b>{{i.Book_Rating}}</h4>
+                      
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+				<!--</div>-->
+        </div>
+		</div>
+      </div>
+
+     </div>
+    </div>
+   </div>
+
+  </div>
+  </div>
+  </div>
+</div>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <p>Footer</p>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DhXWdTRQ9oBH4Q4dvJ2m/e3zsNqZLniqVg92nJQ7jU8Yjq13dyIeHvhvY3GXQFf2n" crossorigin="anonymous">  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<title>Library</title>
+<link rel =icon href = static/logo.png type = image/x-icon>
+</head>
+<body>
+  {% for i in prediction_text %}
+    <div class="ans">
+        <h2>Precision: {{i.prediction_text}}</h2>
+        <h2>Book Name : {{i.prediction_text1}}</h2>
+        <h2>Author : {{i.prediction_text2}}</h2>
+        <img src="https://covers.openlibrary.org/b/isbn/{{prediction_text3}}-M.jpg"/>
+     </div>
+    {% endfor %}
+</body>
+</html>
